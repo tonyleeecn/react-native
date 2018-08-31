@@ -1,11 +1,11 @@
 {
-  "name": "react-native",
+  "name": "@tuya-rn/react-native",
   "version": "0.55.4",
   "description": "A framework for building native apps using React",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:facebook/react-native.git"
+    "url": "git@code.registry.wgine.com:10023/TuyaRN/react-native.git"
   },
   "engines": {
     "node": ">=4"
